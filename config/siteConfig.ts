@@ -9,6 +9,7 @@ export const siteConfig = {
   linkedin: 'https://www.linkedin.com/in/muhammad-abdullah/',
   instagram: '',
   resumeUrl: '/resume.pdf',
+  avatar: '/profile.svg',
   tagline: 'AI/ML Engineer — building production-ready AI systems',
 }
 
@@ -22,7 +23,7 @@ export const navLinks = [
 
 export const skills = {
   languages: ['Python', 'SQL', 'JavaScript', 'HTML/CSS', 'Java'],
-  aiml: ['LLMs', 'RAG', 'Fine-tuning', 'Computer Vision', 'NLP', 'TensorFlow', 'PyTorch'],
+  AI: ['LLMs', 'RAG', 'Fine-tuning', 'Computer Vision', 'NLP', 'TensorFlow', 'PyTorch'],
   frontend: ['React', 'Next.js', 'Tailwind CSS', 'Framer Motion', 'TypeScript'],
   backend: ['FastAPI', 'Node.js', 'Express', 'Supabase', 'Firebase', 'MongoDB'],
   tools: ['GitHub', 'VS Code', 'Docker', 'n8n', 'Kaggle', 'Google Colab', 'Jupyter Notebook'],

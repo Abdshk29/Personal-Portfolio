@@ -1,4 +1,5 @@
  'use client'
+import Image from 'next/image'
 import { siteConfig } from '@/config/siteConfig'
 import { motion } from 'framer-motion'
 import { Download, Mail } from 'lucide-react'
@@ -31,10 +32,10 @@ export default function Hero() {
           variants={containerVariants}
           initial="hidden"
           animate="visible"
-          className="max-w-3xl"
+          className="max-w-4xl mx-auto flex flex-col md:flex-row items-center gap-8"
         >
           {/* Status Badge */}
-          <motion.div variants={itemVariants} className="mb-6">
+          <motion.div variants={itemVariants} className="mb-6 md:mb-0 md:flex-1">
             <span className="inline-block px-4 py-2 text-sm font-medium bg-primary-50 dark:bg-primary-900/30 text-primary-700 dark:text-primary-300 rounded-full border border-primary-200 dark:border-primary-800">
               {siteConfig.tagline}
             </span>
@@ -103,6 +104,13 @@ export default function Hero() {
             >
               Instagram
             </a>
+          </motion.div>
+
+          {/* Profile image for larger screens */}
+          <motion.div variants={itemVariants} className="hidden md:block md:flex-1">
+            <div className="w-56 h-56 rounded-full overflow-hidden shadow-2xl mx-auto ring-4 ring-primary-50 dark:ring-primary-900/50">
+              <Image src={siteConfig.avatar} alt={siteConfig.name} width={224} height={224} priority />
+            </div>
           </motion.div>
         </motion.div>
       </div>
