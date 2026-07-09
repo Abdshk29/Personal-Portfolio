@@ -1,4 +1,5 @@
-%PDF-1.1
+%PDF-1.4
+%âãÏÓ
 1 0 obj
 << /Type /Catalog /Pages 2 0 R >>
 endobj
@@ -9,12 +10,70 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
 endobj
 4 0 obj
-<< /Length 44 >>
+<< /Length 1100 >>
 stream
 BT
-/F1 24 Tf
-100 700 Td
-(Resume placeholder) Tj
+/F1 12 Tf
+40 740 Td
+(Muhammad Abdullah) Tj
+0 -18 Td
+(AI/ML Engineer) Tj
+0 -18 Td
+(National Textile University - NTU) Tj
+0 -18 Td
+(Bachelor of Science in Artificial Intelligence) Tj
+0 -24 Td
+(Oct 2022 - July 2026) Tj
+0 -18 Td
+(Faisalabad, Punjab) Tj
+0 -24 Td
+(Phone: +92 3066698696) Tj
+0 -18 Td
+(Email: abdshk28@gmail.com) Tj
+0 -24 Td
+(---) Tj
+0 -18 Td
+(An Artificial Intelligence graduate with hands-on experience in AI, Machine Learning, Computer Vision, and full-stack development. Passionate about building real-world, data-driven solutions through intelligent automation and modern technologies, with a strong focus on scalable and production-ready applications.) Tj
+0 -24 Td
+(---) Tj
+0 -18 Td
+(Languages: English, Urdu) Tj
+0 -18 Td
+(Certifications: Microsoft Office Specialist (Certiport)) Tj
+0 -24 Td
+(Technical Skills:) Tj
+0 -18 Td
+(Languages: Python, SQL, JavaScript, HTML/CSS) Tj
+0 -18 Td
+(Frameworks: Node.js, Flask, FastAPI, Next.js) Tj
+0 -18 Td
+(Developer Tools: GitHub, VS Code, Visual Studio, Kaggle, Google Colab, Jupyter Notebook, n8n) Tj
+0 -24 Td
+(Projects:) Tj
+0 -18 Td
+(AasaanLearn (Final Year Project) — Next.js, FastAPI, Firebase, OpenAI, Edge TTS) Tj
+0 -18 Td
+(Developed a web app which converts uploaded PDFs into flashcards and creates automated quizzes based on the uploaded files.) Tj
+0 -18 Td
+(Flash Quiz+ — Next.js, Node.js, Supabase, Gemini AI) Tj
+0 -18 Td
+(NextGen Tech — Next.js, TailwindCSS, MongoDB, Node.js, TypeScript) Tj
+0 -18 Td
+(Scholarship Eligibility Checker — n8n, Gemini AI, Automation) Tj
+0 -24 Td
+(Awards:) Tj
+0 -18 Td
+(1st Position among BS Artificial Intelligence Final Year Projects) Tj
+0 -24 Td
+(Experience:) Tj
+0 -18 Td
+(AI Automation Intern - CodeCelix) Tj
+0 -18 Td
+(Provided AI-powered solutions using modern tech stack) Tj
+0 -18 Td
+(Built Speech-to-Text Application using advanced AI techniques in streamlit) Tj
+0 -18 Td
+(Oct 2025 - Nov 2025) Tj
 ET
 endstream
 endobj
@@ -25,12 +84,12 @@ xref
 0 6
 0000000000 65535 f 
 0000000010 00000 n 
-0000000067 00000 n 
-0000000120 00000 n 
-0000000225 00000 n 
-0000000310 00000 n 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000280 00000 n 
+0000001421 00000 n 
 trailer
 << /Root 1 0 R /Size 6 >>
 startxref
-390
+1540
 %%EOF
