@@ -9,7 +9,7 @@ export const siteConfig = {
   linkedin: 'https://www.linkedin.com/in/muhammad-abdullah/',
   instagram: '',
   resumeUrl: '/resume.pdf',
-  avatar: '/profile.svg',
+  avatar: '/avatar.jpg',
   tagline: 'AI/ML Engineer — building production-ready AI systems',
 }
 
